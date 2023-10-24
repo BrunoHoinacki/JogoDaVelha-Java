@@ -28,5 +28,10 @@ O projeto é dividido em várias classes:
 java JogoDaVelha
 ```
 
-##Autor
-Este jogo da velha em Java foi desenvolvido por [LinkedIn](kedin.com/in/bruno-hoinacki-035134175/).
+## Sobre o Autor
+
+Meu nome é Bruno Hoinacki, e sou um desenvolvedor de software apaixonado por criar coisas incríveis. Acredito no poder do desenvolvimento de código limpo e legível, seguindo os princípios do [Clean Code](https://en.wikipedia.org/wiki/Clean_Code).
+
+Esforço-me para manter um código bem organizado, de fácil manutenção e compreensível. Se você compartilha dessa visão, ficarei feliz em colaborar e melhorar este projeto juntos.
+
+[LinkedIn](https://www.linkedin.com/in/bruno-hoinacki-035134175/)
