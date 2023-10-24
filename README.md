@@ -26,7 +26,7 @@ O projeto é dividido em várias classes:
 
 ```bash
 java JogoDaVelha
-
+```
 
 ##Autor
-Este jogo da velha em Java foi desenvolvido por Bruno Hoinacki.
+Este jogo da velha em Java foi desenvolvido por [LinkedIn](kedin.com/in/bruno-hoinacki-035134175/).
